@@ -1,0 +1,23 @@
+.card-style {
+    margin-top: 20px;
+}
+
+.dropdown-menu[data-bs-popper] {
+    top: 100%;
+    left: -220%;
+    margin-top: 0.125rem;
+}
+
+.avata {
+    display: flex;
+    border-radius: 50%;
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    margin: auto;
+}
+
+.btn-short {
+    width: 140px;
+    margin: 0 10px;
+}
